@@ -1,2 +1,2 @@
 # hello-world
-a githug repository
+a github repository
